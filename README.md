@@ -9,7 +9,7 @@ ____
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adfontana&theme=radical&show_icons=true&count_private=true?&include_all_commits=true" />
 </a>
 <a href="https://github.com/adfontana/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adfontana&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adfontana&layout=compact&theme=radical" />
 </a>
 
 <!--
