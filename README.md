@@ -1,6 +1,6 @@
 ### Hi there 👋
 I've been working with software development since 2006, i have a degree in Computer Science from UNIVALI and large experience in the hospitality industry
-
+## :telephone_receiver: Contacts
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adfontana)](https://twitter.com/adfontana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-fontana)](https://www.linkedin.com/in/augusto-fontana)
 
