@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 My name is Augusto Duart Fontana, and i'm from Brazil. I've been working with software development since 2006. I love to code and develop systems, it's something that comes naturally to me and i enjoy doing. 
 
 Always looking to extract the maximum quality in each code line. Clean code for life!!
