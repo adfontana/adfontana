@@ -1,10 +1,10 @@
 ## Hi there 👋
-My name is Augusto Duart Fontana, and i'm from Brazil. I've been working with software development since 2006. I love to code and develop systems, it's something that comes naturally to me and i enjoy doing. 
+My name is Augusto Duart Fontana, and I'm from Brazil. I've been working in software development since 2006. I love coding and developing software, it's something that comes naturally to me, and I enjoy doing it.
 
-Always looking to extract the maximum quality in each code line. Clean code for life!!
+Always pushing for the best quality in every line of code. Clean code for life!
 ## :telephone_receiver: Contacts
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adfontana)](https://twitter.com/adfontana)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-fontana)](https://www.linkedin.com/in/augusto-fontana)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/adfontana)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-fontana)
 
 ## :chart_with_upwards_trend: Stats
 <p align="center">
